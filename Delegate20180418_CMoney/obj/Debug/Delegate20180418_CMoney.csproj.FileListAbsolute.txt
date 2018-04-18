@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Delegate20180418_CMoney\Delegate20180418_CMoney\bin\Debug\Delegate20180418_CMoney.exe.config
+C:\Users\asus\source\repos\Delegate20180418_CMoney\Delegate20180418_CMoney\bin\Debug\Delegate20180418_CMoney.exe
+C:\Users\asus\source\repos\Delegate20180418_CMoney\Delegate20180418_CMoney\bin\Debug\Delegate20180418_CMoney.pdb
+C:\Users\asus\source\repos\Delegate20180418_CMoney\Delegate20180418_CMoney\obj\Debug\Delegate20180418_CMoney.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\Delegate20180418_CMoney\Delegate20180418_CMoney\obj\Debug\Delegate20180418_CMoney.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Delegate20180418_CMoney\Delegate20180418_CMoney\obj\Debug\Delegate20180418_CMoney.exe
+C:\Users\asus\source\repos\Delegate20180418_CMoney\Delegate20180418_CMoney\obj\Debug\Delegate20180418_CMoney.pdb
